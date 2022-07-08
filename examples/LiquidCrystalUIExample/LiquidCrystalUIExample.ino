@@ -1,3 +1,9 @@
+/*
+ * LiquidCrystalUI - Library
+ * https://github.com/MaxKliuba/LiquidCrystalUI
+ * by MaxClub Technology, 2022
+ */
+
 #include <EncButton.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>

@@ -1,3 +1,9 @@
+/*
+ * LiquidCrystalUI - Library
+ * https://github.com/MaxKliuba/LiquidCrystalUI
+ * by MaxClub Technology, 2022
+ */
+
 #pragma once
 
 #ifndef _POINTER_CHARMAP_LOCATION
